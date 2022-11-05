@@ -21,4 +21,4 @@ let whoAsked = async (statement) => {
 }
 
 // This is where the fun begins
-whoAsked('barotrauma is a brilliant game')
+whoAsked('hello there')
